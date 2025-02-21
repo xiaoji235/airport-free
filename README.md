@@ -1,7 +1,7 @@
 # Airport-Free
 ## 免费节点，每3h自动更新订阅
 
-- 更新时间（UTC+8）：`2025-02-21 23:12:33`
+- 更新时间（UTC+8）：`2025-02-21 23:53:23`
 - [v2ray节点多合一](https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray.txt)（不建议用这个，因为太多了系统ping不过来）
 - [v2ray节点多合一](https://ghp.ci/https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt)（如果第一个无法订阅就用这个）
 - 由于CDN加速会缓存导致节点更新滞后，可以前往[Github](https://github.com/xiaoji235/airport-free)获取<strong>v2ray.txt</strong>文件或者[clash](https://github.com/xiaoji235/airport-free/tree/main/clash)路径下的txt文件和[v2ray](https://github.com/xiaoji235/airport-free/tree/main/v2ray)路径下的txt文件。
