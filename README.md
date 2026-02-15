@@ -1,7 +1,7 @@
 # Airport-Free
 ## Free nodes, automatically renews subscription every 3h
 
-- Update time（UTC+8）：`2026-02-16 02:28:01`
+- Update time（UTC+8）：`2026-02-16 05:18:45`
 - [v2ray nodes all in one](https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray.txt).（Not recommended）
 - [v2ray nodes all in one](https://github.tmby.shop/https://github.com/xiaoji235/airport-free/blob/main/v2ray.txt) （ you can use this if can not access）
 - Since CDN acceleration will cache and cause nodes updates to lag, you can go to [Github](https://github.com/xiaoji235/airport-free) fetch [clash files](https://github.com/xiaoji235/airport-free/tree/main/clash) or [v2ray files](https://github.com/xiaoji235/airport-free/tree/main/v2ray)
